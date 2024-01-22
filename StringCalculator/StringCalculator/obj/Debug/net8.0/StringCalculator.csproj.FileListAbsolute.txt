@@ -10,3 +10,15 @@ C:\Users\estia\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8
 C:\Users\estia\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\refint\StringCalculator.dll
 C:\Users\estia\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.pdb
 C:\Users\estia\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\ref\StringCalculator.dll
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.deps.json
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.dll
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\bin\Debug\net8.0\StringCalculator.pdb
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.AssemblyInfo.cs
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.sourcelink.json
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.dll
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\refint\StringCalculator.dll
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\StringCalculator.pdb
+C:\Users\estia\OneDrive\Documents\Repo\StringCalculator\StringCalculator\StringCalculator\obj\Debug\net8.0\ref\StringCalculator.dll
